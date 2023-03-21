@@ -7,3 +7,8 @@
 body {
     color: red
 }
+
+ul {
+    border: 1px solid black;
+    background-color: red;
+}
